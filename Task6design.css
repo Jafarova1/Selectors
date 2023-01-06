@@ -1,0 +1,124 @@
+.navbar b {
+    color: chocolate;
+    font-size: 40px;
+}
+
+.navbar h1 {
+    color: white;
+    font-size: 30px;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    background-color: gray;
+    height: 36px;
+    padding: 4px;
+
+}
+
+.navbar li {
+    border-right: 1px solid black;
+    height: 15px;
+    width: 40px;
+    padding: 10px;
+
+
+}
+
+.navbar {
+    background-color: rgb(39, 37, 37);
+    height: 70px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+}
+
+
+.image1 {
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    background-color: grey;
+    margin-top: 50px;
+    display: inline-flex;
+
+
+
+}
+
+.image1Txt {
+    display: inline-block;
+    width: 400px;
+    margin-left: 30px;
+}
+.image2{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    background-color: grey;
+    margin-top: 50px;
+    display: inline-flex;
+
+
+}
+.image2Text{
+    display: inline-block;
+    width: 400px;
+    margin-left: 30px;
+
+}
+.image3{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    background-color: grey;
+    margin-top: 50px;
+    display: inline-flex;
+}
+.image3Text{
+    display: inline-block;
+    width: 400px;
+    margin-left: 30px;
+}
+.main a{
+    text-decoration: none;
+    color: chocolate;
+}
+.bodypart{
+    width: 3000px;
+    display: inline-block;
+    text-align: justify;
+    height: 900px;
+
+}
+.side{
+    background-color:rgb(118, 118, 118);
+    display: inline-block;
+    width: 2000px;
+    height: 1000px;
+    margin-left: 1px;
+    padding: 30px;
+    margin-top: 3px;
+
+}
+.main{
+    display: flex;
+}
+.side a{
+    text-decoration: none;
+    color: chocolate;
+}
+.foot{
+    background-color: rgb(48, 48, 48);
+    color: white;
+    height: 50px;
+    padding: 5px;
+    text-align: center;
+}
+.foot b{
+    color: chocolate;
+}

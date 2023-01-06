@@ -1,0 +1,134 @@
+.image{
+    border: 1px solid black;
+    width: 800px;
+    height: 200px;
+  margin-left: 200px;
+  background-image: url(./OIP.jpg);
+  background-size: cover;
+}
+.image h3{
+    color: blue;
+    margin-left: 100px;
+    margin-top: 50px;
+    
+}
+.image h5{
+    color: blue;
+    margin-left: 100px;
+    margin-top: 20px;
+
+}
+.navbar{
+   background-color: gray;
+   width: 800px;
+   margin-left: 200px;
+
+}
+.navbar ul{
+display: flex;
+height: 50px;
+list-style: none;
+gap: 30px;
+
+
+
+}
+.navbar li{
+    border-right: 1px solid black;
+    width: 100px;
+    height: 30px;
+    padding: 10px;
+
+}
+
+.navbar a{
+    text-decoration: none;
+    color: white;
+}
+.Menu ul{
+   
+    width: 100px;
+    height: 200px;
+    display: inline;
+    color: white;
+
+}
+
+.Menu{
+    margin-left: 11px;
+    margin-left: 200px;
+    display: inline-block;
+    border: 1px solid darkslategrey;
+    width: 300px;
+    height: 250px;
+    color: white;
+   
+}
+.Menu a{
+    color: white;
+}
+.Block{
+    border: 1px solid darkslategray;
+    width: 300px;
+
+}
+.Gallery{
+  /* border: 1px solid black; */
+  width: 900px;
+  margin-right: 150px;
+  margin-left: 80px;
+  color: white;
+
+  
+
+}
+.bodypart1{
+    display: flex;
+
+}
+.Subscription{
+    border: 1px solid white; 
+    width: 400px;
+    height: 300px;
+    color: white;
+    border-left: none;
+    border-top:none ;
+    border-bottom: none;
+
+}
+.Services{
+    /* border: 1px solid black; */
+    width: 400px;
+    color: white;
+    margin-left: 50px;
+}
+.bodypart2{
+    display: flex;
+    margin-right: 400px;
+    
+
+}
+body{
+    background-color: darkslategrey;
+}
+.Subscription button{
+    width: 100px;
+    height: 50px;
+    background-color: darkcyan;
+    border-color:darkcyan ;
+}
+.Services button{
+    width: 100px;
+    height: 50px;
+    background-color: darkcyan;
+    border-color:darkcyan ;
+    
+}
+.foot{
+    text-align: center;
+    color: white;
+
+}
+.main{
+    display: inline-block;
+}

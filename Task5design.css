@@ -1,0 +1,30 @@
+.image {
+    width: 400px;
+    height: 300px;
+    margin-left: 430px;
+    margin-top: 80px;
+    border: 1px solid black;
+    background-repeat: no-repeat;
+    background-image: url(./preview-534185-FIuWImCzIJWHBlCn-large.webp);
+    background-size: cover;
+    border-radius: 10px;
+}
+.Login{
+    justify-content: center;
+    text-align: center;
+
+}
+p{
+    font-size: 30px;
+}
+.Login input{
+    height: 40px;
+    width: 300px;
+}
+button{
+    height: 40px;
+    width: 320px;
+    background-color: dodgerblue;
+    border-color: dodgerblue;
+    border-radius: 5px;
+}

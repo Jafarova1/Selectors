@@ -1,0 +1,13 @@
+a{
+    color: hotpink;
+}
+body{
+    background-color: darkgray;
+}
+p{
+    color: white;
+    background-color: hotpink;
+   border-radius: 5px;
+   height: 30px;
+    padding: 4px;
+}
